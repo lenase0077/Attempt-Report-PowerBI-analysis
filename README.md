@@ -73,9 +73,8 @@ Interactuar con los gráficos para descubrir relaciones entre variables.
 Exportar reportes personalizados si es necesario.
 
 🤝 Colaboradores
-[Tu nombre]
+Leandro Serrano
 
-[Otros integrantes si los hay]
 
 📌 Notas finales
 Este proyecto tiene fines educativos y analíticos. El contenido no representa una postura política ni intenta estigmatizar regiones o grupos. El objetivo es entender datos históricos para fomentar la paz y la prevención.
